@@ -1,0 +1,9 @@
+- name: Home
+  link: /
+- name: Menu
+  link: /menu
+- name: Hours
+  link: /hours
+- name: Gallery
+  link: /gallery
+  
