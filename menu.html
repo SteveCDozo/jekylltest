@@ -2,4 +2,9 @@
 layout: default
 title: Menu
 ---
-<p>Welcome to the {{ page.title }} page!</p>
+{% for burger in site.data.menu.burgers %}
+<img class="menuImg" src="assets/images/menu/{{ burger.image }}">
+<h3>{{ burger.name }}</h3>
+<p>{{ burger.desc }}<br>Rating: {{ burger.rating }} / 5</p>
+{% endfor %}
+

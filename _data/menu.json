@@ -1,0 +1,22 @@
+{
+    "burgers": [
+        {
+            "name": "The Juicy Burger",
+            "rating": 5,
+            "image": "burger1.jpg",
+            "desc": "This gigantic burger is sure to fill you up!"
+        },
+        {
+            "name": "The Cheese Burger",
+            "rating": 4.9,
+            "image": "burger2.jpg",
+            "desc": "Cheese is just oozing out of this burger"
+        },
+        {
+            "name": "The Bacon Burger",
+            "rating": 5,
+            "image": "burger3.jpg",
+            "desc": "Burger topped with our hot, sizzling, premium bacon"
+        }
+    ]
+}
